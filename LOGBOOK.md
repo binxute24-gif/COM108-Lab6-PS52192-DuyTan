@@ -11,10 +11,11 @@
 ---
 
 ### Lần 1: Bài 1 - Bộ Lọc Làm Mịn Tín Hiệu (Moving Average)
-- Trạng thái: Chờ chấm
+- Trạng thái: Pass 100%
 - Prompt hỏi AI (nếu có): 
 - Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Cách sửa / Bài học: [CHAY TEST BAI 1: BO LOC LAM MIN TIN HIEU MOVING AVERAGE]
+>>> BAI 1: PASS 100% TEST CASES!
 
 ### Lần 2: Bài 1
 - Trạng thái: 
