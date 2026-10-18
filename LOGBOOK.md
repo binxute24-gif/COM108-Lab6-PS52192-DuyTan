@@ -45,7 +45,9 @@ At line:1 char:48
 +                                                ~~~~~~~~~~~
     + CategoryInfo          : ObjectNotFound: (./run_test2:String) [], CommandNotFoundException
     + FullyQualifiedErrorId : CommandNotFoundException
-
+    ![alt text](<../bai 2.png>)
+    ![alt text](../bai2.1.png)
+    
 ### Lần 5: Bài 2
 - Trạng thái:  PASS 100%
 - Lỗi / Cách sửa: 
@@ -53,6 +55,7 @@ PS D:\code\COM108-Lab6-PS52192-DuyTan\COM108-Lab6-PS52192-DuyTan\src> cd ..
 PS D:\code\COM108-Lab6-PS52192-DuyTan\COM108-Lab6-PS52192-DuyTan> gcc -Wall tests/test_bai2.c -o run_test2 -lm ; ./run_test2
 [CHAY TEST BAI 2: NEN & GIAI NEN SAI PHAN DELTA ENCODING]
 >>> BAI 2: PASS 100% TEST CASES!
+![alt text](<Screenshot 2026-10-18 174550.png>)
 
 ### Lần 6: Bài 2 (Dự phòng)
 - Trạng thái: 
