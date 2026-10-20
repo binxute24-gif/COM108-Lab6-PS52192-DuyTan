@@ -64,10 +64,13 @@ PS D:\code\COM108-Lab6-PS52192-DuyTan\COM108-Lab6-PS52192-DuyTan> gcc -Wall test
 ---
 
 ### Lần 7: Bài 3 - Bộ Lọc Làm Mờ Điểm Ảnh (Box Blur Filter 3x3)
-- Trạng thái: 
+- Trạng thái: Pass 100% 
 - Prompt hỏi AI (nếu có): 
 - Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Cách sửa / Bài học: PS D:\code\COM108-Lab6-PS52192-DuyTan\COM108-Lab6-PS52192-DuyTan> gcc -Wall tests/test_bai3.c -o run_tet3 -lm ; ./run_test3 
+[CHAY TEST BAI 3: BO LOC LAM MO DIEM ANH BOX BLUR 3x3]
+>>> BAI 3: PASS 100% TEST CASES!
+![alt text](<Screenshot 2026-10-20 183021.png>)
 
 ### Lần 8: Bài 3
 - Trạng thái: 
@@ -80,11 +83,13 @@ PS D:\code\COM108-Lab6-PS52192-DuyTan\COM108-Lab6-PS52192-DuyTan> gcc -Wall test
 ---
 
 ### Lần 10: Bài 4 - Radar Dò Điểm Nóng (Thermal Peak Detection)
-- Trạng thái: 
+- Trạng thái: PASS 100%
 - Prompt hỏi AI (nếu có): 
 - Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
-
+- Cách sửa / Bài học: PS D:\code\COM108-Lab6-PS52192-DuyTan\COM108-Lab6-PS52192-DuyTan> gcc -Wall tests/test_bai4.c -o run_test4 -lm ; ./run_test4
+[CHAY TEST BAI 4: RADAR DO DIEM NONG QUAN TRONG (PEAK DETECTION)]
+>>> BAI 4: PASS 100% TEST CASES!
+![alt text](<Screenshot 2026-10-20 181952.png>)
 ### Lần 11: Bài 4
 - Trạng thái: 
 - Lỗi / Cách sửa: 

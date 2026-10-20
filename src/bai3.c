@@ -70,4 +70,4 @@ void lamMoMaTran(int src[][MAX_COLS], int dest[][MAX_COLS], int row, int col) {
             }
         }
     }
-}
+}   
